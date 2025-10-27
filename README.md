@@ -89,8 +89,3 @@ Frontend runs on `http://localhost:3000` and backend on `http://localhost:8000`.
 This project is licensed under the MIT License.
 
 ***
-
-
-[8](https://bea.stollnitz.com/blog/vscode-ml-project/)
-[9](https://github.com/CLAIRE-Labo/python-ml-research-template)
-[10](https://www.makeareadme.com)
